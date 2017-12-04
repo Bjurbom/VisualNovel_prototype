@@ -22,6 +22,7 @@ namespace visualnovel_prototype
         SpriteBatch spriteBatch;
         string textString = "";
         string textReal = "hello this is just a test to see if the text will slowly draw out on the screen";
+        string text = "ser om det sparar i github";
 
         public Game1()
         {

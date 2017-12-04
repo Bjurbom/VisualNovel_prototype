@@ -6,6 +6,8 @@ namespace visualnovel_prototype
 {
     class Chapter_test
     {
-        
+        public void story()
+{
+}
     }
 }
